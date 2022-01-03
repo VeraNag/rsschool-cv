@@ -51,5 +51,5 @@
    <p align=center>
     <a href="https://rs.school/js-stage0/"> <img src="https://rs.school/images/rs_school_js.svg" alt="RS School" width="240" height="160">  </a> </p>
   <p  align=center> Github <a href="https://github.com/veranag">VeraNag</a></p>
-  <p  align=center>2021</p>
+  <p  align=center>2022</p>
   </footer>
