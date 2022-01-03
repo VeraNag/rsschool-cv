@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <header>
- <title> Curriculum Vitae </title>
- <h1 text align=center> Vera Nagumanova <h1>
+  <h1 align=center> Vera Nagumanova <h1>
   <img src="https://mgimo.ru/upload/iblock/41d/41d6ce913f1bf0080d367675a2ff2a86.jpg" alt="Vera"> 
   <h2> Contacts </h2>
-  <p> Phone: xxxxx </p>
-  <p> Email: xxxxx</p>
+   <ul>
+    <li> Phone: xxxxx </li>
+    <li> Email: xxxxx</li>
+   </ul>
  </header> 
  
  <main>
@@ -32,7 +33,7 @@
       <td> <h2> COURSES </h2>
         <ul>
           <li> <a href="https://rs.school/js-stage0/"> JavaScript/Front-end. Stage 0 </a>(in progress) </li>
-          <li> <a href="https://rs.school/js/">«JavaScript/Front-end»</a> (February 2022)</li>
+          <li> <a href="https://rs.school/js/">JavaScript/Front-end</a> (February 2022)</li>
         </ul>
       </td>
       <td> <h2> SKILLS </h2>
@@ -47,7 +48,8 @@
 </main>
 
   <footer>
- <img src="https://rs.school/images/rs_school_js.svg" alt="RS School" width="240" height="160">
-  <p text align=center> Github <a href="https://github.com/veranag">VeraNag</a></p>
-  <p text align=center>2021</p>
+   <p align=center>
+    <a href="https://rs.school/js-stage0/"> <img src="https://rs.school/images/rs_school_js.svg" alt="RS School" width="240" height="160">  </a> </p>
+  <p  align=center> Github <a href="https://github.com/veranag">VeraNag</a></p>
+  <p  align=center>2021</p>
   </footer>
