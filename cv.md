@@ -7,6 +7,8 @@
  
  <main>
  <img src="https://mgimo.ru/upload/iblock/41d/41d6ce913f1bf0080d367675a2ff2a86.jpg" alt="Vera">
+  <h2> Contacts </h2>
+  Github <a href="https://github.com/veranag">VeraNag</a>
   <table>
   <tbody>
     <tr>
