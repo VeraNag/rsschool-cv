@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <header>
- <h1 text align=center> Vera Nagumanova </h1>
- <h2 text align=center> Web Developer </h2>
+ <title> Curriculum Vitae </title>
+ <h1 text align=center> Vera Nagumanova <h1>
+  <img src="https://mgimo.ru/upload/iblock/41d/41d6ce913f1bf0080d367675a2ff2a86.jpg" alt="Vera"> 
+  <h2> Contacts </h2>
+  <p> Phone: xxxxx </p>
+  <p> Email: xxxxx</p>
  </header> 
  
  <main>
- <img src="https://mgimo.ru/upload/iblock/41d/41d6ce913f1bf0080d367675a2ff2a86.jpg" alt="Vera"> <h2> Contacts </h2>
-  <p> Github <a href="https://github.com/veranag">VeraNag</a></p>
   <table>
   <tbody>
     <tr>
@@ -46,4 +48,6 @@
 
   <footer>
  <img src="https://rs.school/images/rs_school_js.svg" alt="RS School" width="240" height="160">
+  <p text align=center> Github <a href="https://github.com/veranag">VeraNag</a></p>
+  <p text align=center>2021</p>
   </footer>
